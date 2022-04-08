@@ -1,6 +1,7 @@
 .cover {
-    width: 100%;
+    display: block;
+    width: 1184px;
     height: 740px;
     margin: 0 0 92px;
-    background: url('../../images/background.webp') no-repeat center center;
+    text-decoration: none;
 }
