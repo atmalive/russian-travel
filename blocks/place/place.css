@@ -1,0 +1,10 @@
+.place {
+    max-width: 984px;
+    display: grid;
+    justify-content: flex-start;
+    align-items: flex-start;
+    grid-template-columns: 1fr auto;
+    grid-template-rows: auto auto;
+    margin-bottom: 80px;
+    gap: 48px 40px;
+}
