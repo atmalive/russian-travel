@@ -1,4 +1,8 @@
-.lead_image {
-    height: 984px;
-    height: 615px;
+.lead__image {
+    height: 100%;
+    width: 100%;
+    max-height: 615px;
+    max-width: 984px;
+    object-fit: cover;
+    object-position: center;
 }
