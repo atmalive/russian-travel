@@ -4,3 +4,15 @@
     width: 100%;
     height: 20px;
 }
+
+@media screen and (max-width: 1030px) {
+    .footer {
+        width: 90%;
+    }
+}
+
+@media screen and (max-width: 770px) {
+    .footer {
+        width: 94%;
+    }
+}

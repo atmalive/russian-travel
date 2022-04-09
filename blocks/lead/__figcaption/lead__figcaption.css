@@ -1,6 +1,20 @@
 .lead__figcaption {
     max-width: 984px;
-    width: 100%;
+    width: 97%;
     margin: 0;
     padding: 0;
+}
+
+@media screen and (max-width: 1030px) {
+    .lead__figcaption {
+        max-width: 928px;
+    }
+}
+
+@media screen and (max-width: 770px) {
+    .lead__figcaption {
+        max-width: 768px;
+        width: 100%;
+        
+    }
 }

@@ -13,3 +13,19 @@
 .place:last-child {
     margin: 0;
 }
+
+@media screen and (max-width: 1030px) {
+    .place {
+        max-width: 928px;
+        gap: 48px 32px;
+
+    }
+}
+
+@media screen and (max-width: 770px) {
+    .place {
+        max-width: 720px;
+        gap: 47px 28px;
+        margin-bottom: 73px;
+    }
+}

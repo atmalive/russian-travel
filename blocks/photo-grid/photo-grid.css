@@ -5,3 +5,20 @@
     gap: 16px;
     margin: 0 0 92px;
 }
+
+@media screen and (max-width: 1030px) {
+    .photo-grid {
+        width: 90.3%;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 14px;
+    }
+}
+
+@media screen and (max-width: 770px) {
+    .photo-grid {
+        width: 93.7%;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 16px;
+        margin: 0 0 88px;
+    }
+}

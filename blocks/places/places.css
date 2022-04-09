@@ -1,3 +1,9 @@
 .places {
     margin: 0 0 92px;
 }
+
+@media screen and (max-width: 770px) {
+    .places {
+        margin: 0 0 90px;
+    }
+}

@@ -8,3 +8,10 @@
     padding: 0;
     margin: 0 0 92px 0;
 }
+
+@media screen and (max-width: 770px) {
+    .lead {
+        margin: 0 0 88px 0;
+        
+    }
+}

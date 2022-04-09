@@ -5,3 +5,16 @@
     margin: 0 0 92px;
     text-decoration: none;
 }
+
+@media screen and (max-width: 1030px) {
+    .cover {
+        height: 640px;
+    }
+}
+
+@media screen and (max-width: 770px) {
+    .cover {
+        height: 480px;
+        margin: 0 0 88px;
+    }
+}

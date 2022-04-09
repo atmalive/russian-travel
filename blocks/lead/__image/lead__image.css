@@ -6,3 +6,17 @@
     object-fit: cover;
     object-position: center;
 }
+
+@media screen and (max-width: 1030px) {
+    .lead__image {
+        max-height: 580px;
+        max-width: 928px;
+    }
+}
+
+@media screen and (max-width: 770px) {
+    .lead__image {
+        max-height: 480px;
+        
+    }
+}

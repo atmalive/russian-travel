@@ -4,3 +4,17 @@
     width: 100%;
     margin: 0 0 56px;
 }
+
+@media screen and (max-width: 1030px) {
+    .header {
+        margin: 0 0 48px;
+        width: 91%;
+    }
+}
+
+@media screen and (max-width: 770px) {
+    .header {
+        margin: 0 0 48px;
+        width: 94%;
+    }
+}
