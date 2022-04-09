@@ -6,6 +6,7 @@
     margin: 0 18px 0 0;
     padding: 0;
     text-decoration: none;
+    transition: opacity 0.8s;
  }
 
 .footer__link:last-child {
