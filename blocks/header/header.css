@@ -18,3 +18,10 @@
         width: 94%;
     }
 }
+
+@media screen and (max-width: 400px) {
+    .header {
+        margin: 0 0 48px;
+        width: 91%;
+    }
+}

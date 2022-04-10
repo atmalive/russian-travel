@@ -2,3 +2,9 @@
     height: 32px;
     align-self: flex-end;
 }
+
+@media screen and (max-width: 400px) {
+    .header__lang-links {
+        height: 28px;
+    }
+}

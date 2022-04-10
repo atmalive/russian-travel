@@ -18,3 +18,11 @@
         
     }
 }
+
+@media screen and (max-width: 400px) {
+    .lead__figcaption {
+        max-width: 320px;
+        width: 100%;
+        
+    }
+}

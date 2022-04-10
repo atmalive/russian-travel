@@ -20,3 +20,11 @@
 
     }
 }
+
+@media screen and (max-width: 400px) {
+    .place__image {
+        width: 320px;
+        height: 320px;
+
+    }
+}

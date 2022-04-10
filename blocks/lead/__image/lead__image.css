@@ -20,3 +20,10 @@
         
     }
 }
+
+@media screen and (max-width: 400px) {
+    .lead__image {
+        max-height: 200px;
+        
+    }
+}
