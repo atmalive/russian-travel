@@ -3,4 +3,4 @@
 # Описание 
     Проект для яндекс практикум сиспользованием БЭМ  и адаптивной верстки
 
-https://atmalive.github.io/russian-travel/index.html
+https://atmalive.github.io/russian-travel/
