@@ -7,7 +7,7 @@
     margin: 0 0 33px;
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 730px) {
     .intro__text {
         margin: 0 0 34px;
         width: 95%;
